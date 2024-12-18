@@ -13,3 +13,4 @@ male counterparts at the same age to accept coupons. In addition, a pattern of g
 time. Young women are more likely to accept coupons in morning or noon hours, while young men are more likely
 to accept late night coupons. This information could be valuable to Amazon in determining what customers to target
 and at what time.
+https://github.com/bmicklavzina1/Module-5-Activity/blob/d36cbc6900025539ba55fd0969707dc98695512b/prompt.ipynb
